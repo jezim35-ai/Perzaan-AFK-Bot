@@ -8,7 +8,7 @@
   "server": {
     "ip": "MakriAnarchy.play.hosting",
     "port": 28035,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
